@@ -2,11 +2,11 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/size/rodriguesmvinicius/QueenE_Contracts?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/rodriguesmvinicius/QueenE_Contracts/README?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/rodriguesmvinicius/QueenE_Contracts/README?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/rodriguesmvinicius/QueenE_Contracts/README?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/rodriguesmvinicius/QueenE_Contracts/README?style=for-the-badge)
+![LICENSE](https://img.shields.io/github/license/rodriguesmvinicius/QueenE_Contracts?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/rodriguesmvinicius/QueenE_Contracts?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/rodriguesmvinicius/QueenE_Contracts?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/rodriguesmvinicius/QueenE_Contracts?style=for-the-badge)
+![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FQueenEDAO?style=for-the-badge)
 
 <img src="https://queene.wtf/images/banner.png" alt="Project Banner">
 
@@ -119,4 +119,8 @@ This project was conceived by 4 crazy people working in different areas, bu that
 ## 📝 License
 This project is under MIT license. See the file [LICENSE](LICENSE.md) for more details.
 
-[⬆ Voltar ao topo](#queenE-contracts)<br>
+[![github](https://github.com/rodriguesmvinicius/QueenE_Contracts/blob/HEAD/assets/queeneWTF.png)][1]
+
+[1]: https://queene.wtf
+
+[⬆ Back to the top](#queenE-contracts)<br>
