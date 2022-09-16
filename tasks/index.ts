@@ -1,0 +1,15 @@
+import { task } from "hardhat/config"
+
+exports.accounts = exports.balance = require("./balance")
+exports.blockNumber = require("./block-number")
+exports.contractsLatest = require("./contracts-latest")
+exports.contractEndImplementation = require("./contracts-end-implementation")
+exports.getVotes = require("./get-votes")
+exports.unpausingAuctionHouse = require("./auction-house-unpause")
+exports.auctionHouseValues = require("./auction-house-values")
+exports.auctionHouseInitialize = require("./auction-house-initialize")
+exports.royalGovernorValues = require("./royal-governor-values")
+exports.getHouseSeats = require("./get-house-seats")
+exports.getProposalData = require("./proposal-data")
+exports.getProxyAdmin = require("./get-auction-proxy-admin")
+exports.executeProposal = require("./execute-proposal")
