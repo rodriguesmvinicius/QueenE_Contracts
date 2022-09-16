@@ -78,7 +78,7 @@ This project was conceived by 4 crazy people working in different areas, bu that
   <tr>
     <td align="center">
       <a href="#">
-        <img src="" width="100px;" alt="QueenE of Sir Mladen.eth"/>
+        <img src="https://github.com/rodriguesmvinicius/QueenE_Contracts/blob/HEAD/assets/sirMladendra.png" width="100px;" alt="QueenE of Sir Mladen.eth"/>
         <br>
         <sub>
           <b>Sir Mladen.eth</b>
