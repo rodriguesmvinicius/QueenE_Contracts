@@ -77,7 +77,7 @@ This project was conceived by 4 crazy people working in different areas, bu that
 <table>
   <tr>
     <td align="center">
-      <a href="https://twitter.com/Vinicius_Rod">
+      <a href="https://twitter.com/Vinicius_Rod" target="_blank">
         <img src="https://github.com/rodriguesmvinicius/QueenE_Contracts/blob/HEAD/assets/sirZorke.png" width="200px;" alt="QueenE of Sir sir.zorke.eth"/>
         <br>
         <sub>
@@ -86,7 +86,7 @@ This project was conceived by 4 crazy people working in different areas, bu that
       </a>
     </td>
     <td align="center">
-      <a href="https://twitter.com/Mladendra">
+      <a href="https://twitter.com/Mladendra" target="_blank">
         <img src="https://github.com/rodriguesmvinicius/QueenE_Contracts/blob/HEAD/assets/sirMladendra.png" width="200px;" alt="QueenE of Sir Mladen.eth"/>
         <br>
         <sub>
@@ -95,7 +95,7 @@ This project was conceived by 4 crazy people working in different areas, bu that
       </a>
     </td>    
     <td align="center">
-      <a href="https://twitter.com/ToNMaTsumoto">
+      <a href="https://twitter.com/ToNMaTsumoto" target="_blank">
         <img src="https://github.com/rodriguesmvinicius/QueenE_Contracts/blob/HEAD/assets/sirTonmat.png" width="200px;" alt="QueenE of Sir tonmat.eth"/>
         <br>
         <sub>
@@ -104,7 +104,7 @@ This project was conceived by 4 crazy people working in different areas, bu that
       </a>
     </td>    
     <td align="center">
-      <a href="https://twitter.com/fabioseva">
+      <a href="https://twitter.com/fabioseva" target="_blank">
         <img src="https://github.com/rodriguesmvinicius/QueenE_Contracts/blob/HEAD/assets/sirFabioSeva.png" width="200px;" alt="QueenE of Sir Fabio Seva"/>
         <br>
         <sub>
@@ -119,8 +119,18 @@ This project was conceived by 4 crazy people working in different areas, bu that
 ## 📝 License
 This project is under MIT license. See the file [LICENSE](LICENSE.md) for more details.
 
-[![github](https://github.com/rodriguesmvinicius/QueenE_Contracts/blob/HEAD/assets/queeneWTF.png)][1]
-
-[1]: https://queene.wtf
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://queene.wtf" target="_blank">
+        <img src="https://github.com/rodriguesmvinicius/QueenE_Contracts/blob/HEAD/assets/queeneWTF.png" width="100px;" alt="Get your QueenE"/>
+        <br>
+        <sub>
+          <b>Get your QueenE at queene.wtf</b>
+        </sub>
+      </a>
+    </td>      
+  </tr>
+</table>
 
 [⬆ Back to the top](#queenE-contracts)<br>
