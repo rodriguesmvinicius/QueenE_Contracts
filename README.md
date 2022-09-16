@@ -77,20 +77,47 @@ This project was conceived by 4 crazy people working in different areas, bu that
 <table>
   <tr>
     <td align="center">
-      <a href="#">
-        <img src="https://github.com/rodriguesmvinicius/QueenE_Contracts/blob/HEAD/assets/sirMladendra.png" width="100px;" alt="QueenE of Sir Mladen.eth"/>
+      <a href="https://twitter.com/Vinicius_Rod">
+        <img src="https://github.com/rodriguesmvinicius/QueenE_Contracts/blob/HEAD/assets/sirZorke.png" width="200px;" alt="QueenE of Sir sir.zorke.eth"/>
+        <br>
+        <sub>
+          <b>Sir.Zorke.eth</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/Mladendra">
+        <img src="https://github.com/rodriguesmvinicius/QueenE_Contracts/blob/HEAD/assets/sirMladendra.png" width="200px;" alt="QueenE of Sir Mladen.eth"/>
         <br>
         <sub>
           <b>Sir Mladen.eth</b>
         </sub>
       </a>
-    </td>
+    </td>    
+    <td align="center">
+      <a href="https://twitter.com/ToNMaTsumoto">
+        <img src="https://github.com/rodriguesmvinicius/QueenE_Contracts/blob/HEAD/assets/sirTonmat.png" width="200px;" alt="QueenE of Sir tonmat.eth"/>
+        <br>
+        <sub>
+          <b>Sir Tonmat.eth</b>
+        </sub>
+      </a>
+    </td>    
+    <td align="center">
+      <a href="https://twitter.com/fabioseva">
+        <img src="https://github.com/rodriguesmvinicius/QueenE_Contracts/blob/HEAD/assets/sirFabioSeva.png" width="200px;" alt="QueenE of Sir Fabio Seva"/>
+        <br>
+        <sub>
+          <b>Sir Fabio Seva</b>
+        </sub>
+      </a>
+    </td>      
   </tr>
 </table>
 
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under MIT license. See the file [LICENÇA](LICENSE.md) for more details.
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
