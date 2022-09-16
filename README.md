@@ -117,7 +117,6 @@ This project was conceived by 4 crazy people working in different areas, bu that
 
 
 ## 📝 License
+This project is under MIT license. See the file [LICENSE](LICENSE.md) for more details.
 
-This project is under MIT license. See the file [LICENÇA](LICENSE.md) for more details.
-
-[⬆ Voltar ao topo](#QueenE_Contracts)<br>
+[⬆ Voltar ao topo](#QueenE Contracts)<br>
